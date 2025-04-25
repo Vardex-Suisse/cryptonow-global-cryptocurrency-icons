@@ -2433,5 +2433,80 @@
 		"symbol": "ZRX",
 		"name": "0x",
 		"color": "#302c2c"
+	},
+	{
+		"symbol": "APT",
+		"name": "Aptos",
+		"color": "#000000"
+	},
+	{
+		"symbol": "NEAR",
+		"name": "NEAR Protocol",
+		"color": "#000000"
+	},
+	{
+		"symbol": "HBAR",
+		"name": "Hebara",
+		"color": "#000000"
+	},
+	{
+		"symbol": "SHIB",
+		"name": "Shiba Inu",
+		"color": "#F00500"
+	},
+	{
+		"symbol": "SHIB",
+		"name": "Shiba Inu",
+		"color": "#F00500"
+	},
+	{
+		"symbol": "TON",
+		"name": "Toncoin",
+		"color": "#0088CC"
+	},
+	{
+		"symbol": "ARB",
+		"name": "Arbitrum",
+		"color": "#24A2EE"
+	},
+	{
+		"symbol": "XDC",
+		"name": "XDC Network",
+		"color": "#244B81"
+	},
+	{
+		"symbol": "IMX",
+		"name": "Immutable",
+		"color": "#1B1F2B"
+	},
+	{
+		"symbol": "IOTA",
+		"name": "IOTA",
+		"color": "#000000"
+	},
+	{
+		"symbol": "BSV",
+		"name": "Bitcoin SV",
+		"color": "#EAB300"
+	},
+	{
+		"symbol": "EGLD",
+		"name": "MultiversX",
+		"color": "#000000"
+	},
+	{
+		"symbol": "AXS",
+		"name": "Axie Infinity",
+		"color": "#0055D5"
+	},
+	{
+		"symbol": "KAVA",
+		"name": "Kava",
+		"color": "#FF564F"
+	},
+	{
+		"symbol": "MINA",
+		"name": "Mina",
+		"color": "#DF6633"
 	}
 ]
